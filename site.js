@@ -34,12 +34,22 @@ const vue_app = Vue.createApp({
             // This holds your movies.json data.
             movies: [],
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
+            title: "IMDB + Kalen's Top 8 Movies",
+            owner: "Kalen",
+            github: "https://github.com/KGTCreator/NJIT-3_StarterFiles"
          
       }
     },
       methods: {
             /* ADD FUNCTIONS/METHODS FOR STEP 7 HERE */
-      }
+      },
+      title: {
+            
+      },
+      owner: {
+
+      },
+      github
 })
 
 vue_app.mount("#vue_app")
