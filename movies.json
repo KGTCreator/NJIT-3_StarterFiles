@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Escape From Cluster Prime",
+            "iscore": 9.3,
+            "rating": "PG",
+            "runtime": 142,
+            "released": [1994, 10, 14],
+            "country": "USA",
+            "posters": ["img/shawshank.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0111161",
+            "website": "https://www.facebook.com/ShawshankRedemptionFilm",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
+      },
+      {
+            "title": "The Transformers The Movie",
+            "iscore": 9.3,
+            "rating": "R",
+            "runtime": 142,
+            "released": [1994, 10, 14],
+            "country": "USA",
+            "posters": ["img/shawshank.jpg", "img/shawshank2.jpg", "img/shawshank3.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0111161",
+            "website": "https://www.facebook.com/ShawshankRedemptionFilm",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
+      },
+      {
+            "title": "Wall-E",
+            "iscore": 9.3,
+            "rating": "R",
+            "runtime": 142,
+            "released": [1994, 10, 14],
+            "country": "USA",
+            "posters": ["img/shawshank.jpg", "img/shawshank2.jpg", "img/shawshank3.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0111161",
+            "website": "https://www.facebook.com/ShawshankRedemptionFilm",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
       }
 ]
