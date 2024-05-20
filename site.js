@@ -86,12 +86,10 @@ const vue_app = Vue.createApp({
                   }                
             return month + ' ' + day + ', ' + year[0]
             },
-            like(index) {
-                 this.like++
-            },
-            dislike(index) {
-                  this.dislike++
-            },
+           
+            posterClick(index) {
+               
+            }
          
            
       },
